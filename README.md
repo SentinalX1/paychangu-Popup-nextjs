@@ -17,6 +17,7 @@ This project demonstrates how to integrate PayChangu, a payment gateway platform
 - [Verify Transaction Function](#verify-transaction-function)
 - [Important Notes](#important-notes)
 - [Screenshots](#screenshots)
+- [Contact](#contact)
 - [License](#license)
 
 ## Getting Started
@@ -118,6 +119,9 @@ Homepage: ![App Screenshot](public/images/Screenshot1.webp)
 Payment Form: ![App Screenshot](public/images/Screenshot2.webp)
 
 PayChangu Popup: ![App Screenshot](public/images/Screenshot3.webp)
+
+## Contact
+Email- Morpheus.val205@gmail.com
 
 ## License
 
