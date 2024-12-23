@@ -106,7 +106,7 @@ Sends a GET request to https://api.paychangu.com/verify-payment/${tx_ref}.
 Returns the transaction status (e.g., "success", "failed").
 
 ## Important Notes
-Callback and Return URLs: The callbackUrl and returnUrl are required to complete the payment process. You can generate these URLs for testing purposes using Webhook.site.
+Callback and Return URLs: The callbackUrl and returnUrl are required to complete the payment process. You can generate these URLs for testing purposes using ```https://Webhook.site.```
 
 PayChangu SDK: The PayChangu SDK is dynamically loaded in the app to handle the popup. Make sure to include the correct PayChangu public key for production use.
 
